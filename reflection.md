@@ -2,7 +2,7 @@
 
 
 
-**1. What is static code analysis?\*\*
+**1. What is static code analysis?**
 
 
 
