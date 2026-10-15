@@ -2,7 +2,7 @@
 
 
 
-\### 1. What is static code analysis?
+\*\*1. What is static code analysis?\*\*
 
 
 
@@ -10,7 +10,7 @@ Static code analysis examines source code without executing it. It helps identif
 
 
 
-\### 2. What is the difference between Pylint, Bandit, and Flake8?
+\*\*2. What is the difference between Pylint, Bandit, and Flake8?\*\*
 
 
 
@@ -18,7 +18,7 @@ Pylint checks code quality, naming, documentation, and programming practices. Ba
 
 
 
-\### 3. What issues did you identify and fix?
+\*\*3. What issues did you identify and fix?\*\*
 
 
 
@@ -26,7 +26,7 @@ The original program contained unsafe expression evaluation, shell command execu
 
 
 
-\### 4. How does static code analysis improve software quality?
+\*\*4. How does static code analysis improve software quality?\*\*
 
 
 
